@@ -45,13 +45,3 @@ def winner(board)
   end
 end
 
-
-
-
-
-
-
-=======
-  
-end
->>>>>>> ade45c9d2ffe93955c164b5d1994feb37e630baf
